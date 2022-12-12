@@ -1,0 +1,15 @@
+.vs/
+3DLandingGame.sln
+3DLandingGame.vcxproj
+3DLandingGame.vcxproj.filters
+3DLandingGame.vcxproj.user
+icon.rc
+obj/
+3DLandingGame.exe*  
+3DLandingGame.lib  
+assimp32.dll*      
+fmodL.dll*
+3DLandingGame.exp   
+FreeImage.dll*     
+assimp64.dll*  
+fmod.dll*
