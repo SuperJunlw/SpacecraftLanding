@@ -9,6 +9,7 @@ A 3D spacecraft landing game. Developed using openframework toolkits. Developed 
 - 3 controlable lightings
 - Support for multiple cameras(general, forward, downward, stationery)
 - Collision Detection and Response
+- 3D model for Spacecraft and terrain, created using AutoDest Maya
 
 ![3dGame](https://user-images.githubusercontent.com/89228133/206940765-8bf64bf9-afc3-4439-a92b-492ddc55bdf4.png)
 
