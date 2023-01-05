@@ -7,7 +7,7 @@ A 3D spacecraft landing game. Developed using openframework toolkits. Developed 
 - Altitude Sensor 
 - Particle effects for explosion and spacecraft thruster
 - 3 controlable lightings
-- Support for multiple cameras(general, forward, downward, stationery)
+- Support for multiple cameras(general, forward, downward, stationery), and retargeting the camera behind the spacecraft
 - Collision Detection and Response
 - Sound effect for thruster, collision and explosion
 - 3D model for Spacecraft and terrain, created using AutoDesk Maya
